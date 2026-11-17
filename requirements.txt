@@ -1,0 +1,4 @@
+mcp[cli]>=1.9,<2
+tradingview-ta>=3.3
+yfinance>=0.2.50
+pandas
